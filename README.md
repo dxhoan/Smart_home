@@ -1,2 +1,2 @@
 # Smart_home
-![](smarthome.jpg)
+![](smarthome.png)
